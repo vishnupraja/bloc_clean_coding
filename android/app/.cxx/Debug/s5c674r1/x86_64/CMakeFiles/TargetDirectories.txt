@@ -1,0 +1,2 @@
+/home/rg-infotech/StudioProjects/flutter_clean_coding/android/app/.cxx/Debug/s5c674r1/x86_64/CMakeFiles/edit_cache.dir
+/home/rg-infotech/StudioProjects/flutter_clean_coding/android/app/.cxx/Debug/s5c674r1/x86_64/CMakeFiles/rebuild_cache.dir

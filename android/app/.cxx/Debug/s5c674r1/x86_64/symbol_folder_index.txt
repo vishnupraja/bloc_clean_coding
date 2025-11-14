@@ -1,0 +1,1 @@
+/home/rg-infotech/StudioProjects/flutter_clean_coding/build/app/intermediates/cxx/Debug/s5c674r1/obj/x86_64

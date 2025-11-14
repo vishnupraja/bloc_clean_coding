@@ -44,7 +44,7 @@ dependencies:
   another_flushbar: ^1.12.32
   get_it: ^8.2.0
   flutter_secure_storage: ^9.2.4
-  image_picker: ^1.2.0
+  image_picker:
   dio: ^5.9.0
 
 
